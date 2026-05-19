@@ -1,69 +1,47 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/canvas?type=breathe&color=2e3440&height=180&section=header&text=zawrer&fontSize=50&fontColor=d8dee9&animation=twinkling" alt="Header" />
-</div>
-
-## 🌐 Обо мне
-
-Привет! Я **zawrer**. Увлекаюсь низкоуровневой разработкой, автоматизацией и глубоко погружаюсь в сферу **компьютерных сетей и информационной безопасности (Cybersecurity)**. Люблю кастомизировать рабочее окружение и собирать эффективные инструменты.
-
-- 🖥️ **Основная ОС:** Arch Linux (CachyOS) / Windows 11
-- 📚 **Сейчас изучаю:** Сетевые протоколы, пентест, анализ уязвимостей и безопасную разработку
-- 🛠️ **Философия:** Минимализм, скорость и безопасность
-
----
-
-## 🛠️ Стек технологий
-
-### Языки программирования
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-</p>
-
-### Работа с данными & Базы данных
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### Операционные системы & Окружение
-<p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/CachyOS-00ADFF?style=flat-square&logo=linux&logoColor=white" alt="CachyOS" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white" alt="Windows 11" />
-</p>
-
----
-
-## 📊 Статистика активности
+# 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zawrer&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zawrer&theme=nord&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=SOFTWARE+DEVELOPER;CYBERSECURITY+%26+NETWORKS;LINUX+ENTHUSIAST" alt="Typing SVG" />
+</p>
+## ■ ABOUT_ME
+
+* ── **Focus:** Информационная безопасность, низкоуровневое программирование и сетевые технологии.
+* ── **OS Stack:** Основной рабочий инструмент — **CachyOS (Arch Linux)** для разработки и хакинга, **Windows 11** для специфического софта и задач.
+* ── **Current Activity:** Изучаю архитектуру сетей, пентест и основы реверс-инжиниринга.
+
+---
+
+## ■ TECH_STACK
+
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases & Tools
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+---
+
+## ■ ACTIVITY_METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zawrer&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="zawrer's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawrer&layout=compact&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawrer&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zawrer&theme=dark&hide_border=false&background=0D1117&title=FFFFFF&text=8B949E&stroke=FFFFFF" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
-## 💻 Мое рабочее пространство
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VwY3N4bndidmZ4ZXN5N3V5am94Z3R5N3BjdWpxcXBtNms3Y3p4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPTE/zovS4b96Iby2A/giphy.gif" alt="Coding GIF" width="60%" style="border-radius: 8px; opacity: 0.8;"/>
-</p>
-
----
-
-## 📬 Как меня найти
-
-- **GitHub:** [zawrer](https://github.com/zawrer)
-- **Сфера интересов:** Реверс-инжиниринг, анализ сетевого трафика (Wireshark), безопасность веб-приложений.
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zawrer&color=4c566a&style=flat-square&label=Просмотры+профиля" alt="Profile Views" />
-</div>
+## ■ CONTRIBUTIONS_GRAPH
+┌────────────────────────────────────────────────────────┐
+│  Activity matrix loading directly from GitHub server...│
+└────────────────────────────────────────────────────────┘
+![](https://github-readme-activity-graph.vercel.app/graph?username=zawrer&theme=github-dark&bg_color=0D1117&hide_border=false&area=true&color=ffffff)
