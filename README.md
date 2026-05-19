@@ -42,9 +42,6 @@
 ---
 
 ## ■ CONTRIBUTIONS_GRAPH
-┌────────────────────────────────────────────────────────┐
-│  Activity matrix loading directly from GitHub server...│
-└────────────────────────────────────────────────────────┘
 ![](https://github-readme-activity-graph.vercel.app/graph?username=zawrer&theme=github-dark&bg_color=0D1117&hide_border=false&area=true&color=ffffff)
 
 ---
